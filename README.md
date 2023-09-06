@@ -13,7 +13,7 @@ Actualmente, me encuentro estudiando Java y soy estudiante de Análisis y Desarr
 
 ## Contacto
 Puedes encontrarme en:
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu_perfil_de_linkedin)
-- Correo electrónico: [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:tu_correo_electronico)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bryan-graterol)
+- Correo electrónico: [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:bryangraterol.25@gmail.com)
 
 ¡No dudes en contactarme si quieres hablar de proyectos, colaboraciones o cualquier otra consulta!
