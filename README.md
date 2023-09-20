@@ -19,5 +19,3 @@ Aquí están algunos de mis certificados de cursos:
 - [Certificado de Hack The Box](https://academy.hackthebox.com/achievement/63541/75)
 - [Certificado de Udemy](https://www.udemy.com/certificate/UC-8a8bfa76-c381-4f47-a913-5feec959a4a8/)
 - [Certificado de Udemy](https://www.udemy.com/certificate/UC-1ee96a28-5b7a-44e8-a28f-0a611432d0ca/)
-
-¡No dudes en contactarme si quieres hablar de proyectos, colaboraciones o cualquier otra consulta!
