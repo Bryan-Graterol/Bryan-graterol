@@ -21,5 +21,5 @@ Aquí están algunos de mis certificados de cursos:
 - [Certificado de Udemy](https://www.udemy.com/certificate/UC-1ee96a28-5b7a-44e8-a28f-0a611432d0ca/)
 
 ## Lenguajes que ando Aprendiendo
-Actualmente me encuentro estudiando Rust media los diferentes recursos de udemy y en la documentacion oficial del proyecto,
+Actualmente me encuentro estudiando Rust mediante los diferentes recursos de udemy y en la documentacion oficial del proyecto,
 en mi perfil se pueden encontrar diferentes proyectos pequeños que he realizado con Rust.
