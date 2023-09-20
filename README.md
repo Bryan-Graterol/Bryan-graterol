@@ -9,7 +9,7 @@ Soy un desarrollador junior con experiencia en las siguientes tecnologías:
 - HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-Actualmente, me encuentro estudiando Java y soy estudiante de Análisis y Desarrollo de Software.
+Soy estudiante de Análisis y Desarrollo de Software.
 
 ## Cursos y Certificados
 Aquí están algunos de mis certificados de cursos:
@@ -19,3 +19,7 @@ Aquí están algunos de mis certificados de cursos:
 - [Certificado de Hack The Box](https://academy.hackthebox.com/achievement/63541/75)
 - [Certificado de Udemy](https://www.udemy.com/certificate/UC-8a8bfa76-c381-4f47-a913-5feec959a4a8/)
 - [Certificado de Udemy](https://www.udemy.com/certificate/UC-1ee96a28-5b7a-44e8-a28f-0a611432d0ca/)
+
+## Lenguajes que ando Aprendiendo
+Actualmente me encuentro estudiando Rust media los diferentes recursos de udemy y en la documentacion oficial del proyecto,
+en mi perfil se pueden encontrar diferentes proyectos pequeños que he realizado con Rust.
